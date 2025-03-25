@@ -1,0 +1,15 @@
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\bin\Debug\MDI Sample.exe.config
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\bin\Debug\MDI Sample.exe
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\bin\Debug\MDI Sample.pdb
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI Sample.csproj.AssemblyReference.cache
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.Properties.Resources.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI Sample.csproj.GenerateResource.cache
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI Sample.csproj.CoreCompileInputs.cache
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI Sample.exe
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI Sample.pdb
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmHome.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmMathQuizMC.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmMathQuizFITB.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmMathQuizTOF.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmTesting1.resources
+C:\Users\scofi\source\repos\MDI Sample\MDI Sample\obj\Debug\MDI_Sample.frmTesting2.resources
