@@ -18,7 +18,7 @@ A simple and fun Math Quiz Game built with C# Windows Forms to test your math sk
 
 ## Screenshots
 
-![Game Screenshot](assets/game-screenshot.png)
+![Game Screenshot](assets/screenshot.png)
 
 ## Future Improvements
 - Add difficulty levels (easy, medium, hard)
