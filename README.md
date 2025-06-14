@@ -26,6 +26,11 @@ A simple and fun Math Quiz Game built with C# Windows Forms to test your math sk
 - Add sound effects and animations
 - Expand to more math operations like division and powers
 
+ ## Technologies Used
+- C#
+- Windows Forms
+- .NET Framework
+
 ---
 
 ## Contact
